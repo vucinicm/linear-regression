@@ -1,0 +1,1 @@
+## Implementation of the linear regression algorithm for Intelligent systems course homework
